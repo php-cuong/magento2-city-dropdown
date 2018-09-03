@@ -17,7 +17,9 @@ On the backend:
 3. When the administrator creates a new order on the backend.
 
 See the video how this extension works.
+
 https://www.youtube.com/watch?v=ugZXjsNKM0w&index=6&list=PL98CDCbI3TNslCicN4cJyR4_hBXR1clhW
+https://www.facebook.com/giaphugroupcom/videos/1707242979384945/
 
 This extension is created by me, so if you want to use these features of the city drop-down, please do not hesitate to contact me now via:
 
