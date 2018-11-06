@@ -9,12 +9,14 @@ So where will the city drop-down be applied?
 On the storefront:
 1. When the customer registers a new account.
 2. When the customer edits an address or creates a new address.
-3. When the customer places an order, the city drop-down will be displayed on both the shipping address and billing address.
+3. When the customer estimates Shipping fee.
+4. When the customer places an order, the city drop-down will be displayed on both the shipping address and billing address.
 
 On the backend:
 1. When the administrator edits the customer, the city drop-down will be displayed on the customer address.
 2. When the administrator edits an order, the city drop-down will be displayed on both the shipping address and billing address.
 3. When the administrator creates a new order on the backend.
+4. When the administrator adds the condition in the price rule, the shipping city will be displayed in the Cart attribute
 
 See the video how this extension works.
 
