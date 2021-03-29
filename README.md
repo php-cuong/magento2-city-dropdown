@@ -27,3 +27,4 @@ This extension is created by me, so if you want to use these features of the cit
 
 1. Skype: cuongnq87
 2. Facebook: https://www.facebook.com/giaphugroupcom/
+3. Extension link: https://www.giaphugroup.com/magento-2-city-dropdown-extension.html
